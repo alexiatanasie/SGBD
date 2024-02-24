@@ -1,2 +1,2 @@
 # SGBD
-SGBD
+SGBD notes
